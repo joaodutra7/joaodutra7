@@ -1,6 +1,8 @@
-<pre align="center" class="notranslate">
+<div align="center">
+<pre class="notranslate">
 <code>Sobre mim</code>
 </pre>
+</div>
 
 - Cursando Técnico em Desenvolvimento de Sistemas na instituição SENAI 🌱
 - Lógica de Programação 160h - Concluído ✔
@@ -15,9 +17,11 @@
 - Manutenção de Sistemas 30h - Cursando 
 - Modelagem de Sistemas 80h - Cursando 
 
-<pre align="center" class="notranslate">
+<div align="center">
+<pre class="notranslate">
 <code>GIT STATS</code>
 </pre>
+</div>
 
 <div align="center">
   <a href="https://github.com/joaodutra7">
