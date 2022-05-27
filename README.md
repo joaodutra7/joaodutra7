@@ -1,4 +1,6 @@
-### Olá, me chamo João Victor 👋
+<pre align="center" class="notranslate">
+<code>Sobre mim</code>
+</pre>
 
 - Cursando Técnico em Desenvolvimento de Sistemas na instituição SENAI 🌱
 - Lógica de Programação 160h - Concluído ✔
