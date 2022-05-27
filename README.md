@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 <pre class="notranslate">
 <code>Sobre mim</code>
 </pre>
@@ -10,7 +10,7 @@
 <pre class="notranslate">
 <code>Git Stats</code>
 </pre>
-</div>
+</div>-->
 
 <div align="center">
   <a href="https://github.com/joaodutra7">
@@ -19,17 +19,3 @@
 </div>
 
 
-<!--
-**joaodutra7/joaodutra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
