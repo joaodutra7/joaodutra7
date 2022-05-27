@@ -5,12 +5,12 @@
 </div>
 
 - Cursando Técnico em Desenvolvimento de Sistemas na instituição SENAI 🌱
-
+-->
 <div align="center">
 <pre class="notranslate">
 <code>Git Stats</code>
 </pre>
-</div>-->
+</div>
 
 <div align="center">
   <a href="https://github.com/joaodutra7">
