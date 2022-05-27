@@ -12,7 +12,7 @@
 - Implantação de Sistemas 30h - Cursando 
 - Manutenção de Sistemas 30h - Cursando 
 - Modelagem de Sistemas 80h - Cursando 
-<hr>
+
 <div align="center">
   <a href="https://github.com/joaodutra7">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaodutra7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E"/>
