@@ -3,8 +3,6 @@
 <code>Sobre mim</code>
 </pre>
 </div>
-
-- Cursando Técnico em Desenvolvimento de Sistemas na instituição SENAI 🌱
 -->
 <div align="center">
 <pre class="notranslate">
