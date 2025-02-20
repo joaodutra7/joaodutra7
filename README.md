@@ -39,13 +39,6 @@
 
 ---
 
-## 📊 Atividades Recentes  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaodutra7&theme=dracula"/>
-</div>
-
----
-
 ## 📫 Como me encontrar  
 📧 Email: **joao.vd.lima7@gmail.com**  
 💼 LinkedIn: (https://www.linkedin.com/in/joao-vd-lima/)
