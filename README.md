@@ -3,8 +3,6 @@
   
   ## 👋 Olá! Bem-vindo ao meu perfil no GitHub!
   
-  <p>Sou um desenvolvedor apaixonado por tecnologia. Aqui compartilho projetos, estudos e experimentos. 🚀</p>
-  
 </div>
 
 ---
