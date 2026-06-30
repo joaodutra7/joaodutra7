@@ -5,7 +5,7 @@
 **Analista de Sistemas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vd-lima/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joao.vd.lima7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dutrasolucoes.contato@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaodutra7)
 
 </div>
@@ -42,5 +42,5 @@ Analista com experiências em back-end, bancos de dados relacionais e integraç�
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 <div align="center">
-  <sub>joao.vd.lima7@gmail.com</sub>
+  <sub>dutrasolucoes.contato@gmail.com</sub>
 </div>
