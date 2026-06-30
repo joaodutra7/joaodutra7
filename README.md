@@ -2,7 +2,7 @@
 
 # João Dutra
 
-**Desenvolvedor**
+**Analista de Sistemas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vd-lima/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:joao.vd.lima7@gmail.com)
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Desenvolvedor com foco em back-end, bancos de dados relacionais e integrações.
+Analista com experiências em back-end, bancos de dados relacionais e integrações.
 
 ---
 
@@ -40,17 +40,6 @@ Desenvolvedor com foco em back-end, bancos de dados relacionais e integrações.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaodutra7&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodutra7&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
----
 
 <div align="center">
   <sub>joao.vd.lima7@gmail.com</sub>
